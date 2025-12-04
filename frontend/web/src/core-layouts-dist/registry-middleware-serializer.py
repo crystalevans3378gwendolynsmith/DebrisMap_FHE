@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\core-layouts-dist\registry-middleware-serializer.py
+// Generated at: 2025-10-16T07:10:51.585Z
